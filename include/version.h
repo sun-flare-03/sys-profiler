@@ -1,6 +1,6 @@
 #ifndef SYS_PROFILER_VERSION_H
 #define SYS_PROFILER_VERSION_H
 
-#define VERSION "0.8.0"
+#define VERSION "0.9.0"
 
 #endif
